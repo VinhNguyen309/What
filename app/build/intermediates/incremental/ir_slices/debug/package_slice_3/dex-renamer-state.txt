@@ -1,0 +1,4 @@
+#Sun Nov 11 15:39:48 ICT 2018
+base.0=D\:\\take_photo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
